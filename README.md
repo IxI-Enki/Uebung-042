@@ -1,81 +1,46 @@
 <!--              READE -> VORLAGE Uebungen: Programmieren & Software Engineering              -->
 
-# Uebung-[`#nr`]()  --  [***`Bezeichnung`***]()  
+# Uebung-042  --  [***ASCII Tabelle***](https://github.com/IxI-Enki/Uebung-042/blob/main)  
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
-###### 📎[**Angabe**](https://github.com/IxI-Enki/Uebung-<<<Verzeichniss>>>.pdf) *.pdf*
+###### 📎[**Angabe**](https://github.com/IxI-Enki/Uebung-042/blob/main/work-directory/ASCII_Table.pdf) *.pdf*
 <sup><sub> 
 ---
 </sub></sup>
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ## 📊 Lernziele:  
-  > ↳ `◌ Punkte einfügen`  
-  > ↳ ` ⋯ `  
-  >  
-  >  <sub> [..*weiterführende Quelle*..] </sub> [ **¹** ]()
+   ↳ Stringbearbeitung 
+   ↳ ASCII Code  
+    
+   >   <sub> [..*Quelle ASCII Code*..] </sub> [ **¹** ](https://tools.piex.at/ascii-tabelle/)
 
 <sup><sub> </sub></sup>
 ---
 
-## ✅ Vertiefung:  
-  > ↳ `◌ Punkte einfügen`  
-  > ↳ ` ⋯ `  
-  >  
-  >  <sub> [..*weiterführende Quelle*..] </sub> [ **²** ]()
-
----
-
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ## 🧮 **Aufgabenstellung:**  
-  >  *Beschreibung der Aufgabe* einfügen  
-  >  *Programablauf* und weitere ***Anforderungen***  
-  >  ` ⋯ `  
-  >  
-  >  <sub> [..*weiterführende Quelle*..] </sub> [ **³** ]()
-
+  -  *Schreiben Sie ein Programm, welches die druckbaren Zeichen des ASCII Codes, samt der entsprechende INT und HEX Zahl ausgibt.  
+  -  *Die Druckbaren Zeichen beginnen bei dezimal 32 und enden bei dezimal 127*   
+ 
 ---
  
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ## 🔎 **Ausgabe** <sub>*Bsp.*</sub> 
 
+- Exemplarisch die ersten 15 Zeilen der Ausgabe …
 
-   |            ❗ *`direkt in die README einfügen`*   |  
+   |           *Benutzerschnittstelle:*   |  
    | :-----------------------------------------------------------------------------------------------------------------: |
-   |  ![**Ausgabebeispiel 📎**](https://github.com/IxI-Enki/Uebung-037/assets/138018029/0e779913-4daa-4784-9edb-46df66a91bad)  |
-> <sub> [..*weiterführende Quelle*..] </sub> [ **⁴** ]()
+   |  ![**Ausgabebeispiel 📎**](https://github.com/IxI-Enki/Uebung-042/assets/138018029/55785dfd-c5ae-4399-9fb3-c7fd8cef4dec) |
+
+- … muss fortgesetzt werden bis zum Code 127
 
 ---
-<!-- ---------------------------------------------|-------------------------------------------- -->
-## 🧩 **Hinweis** / <sub>Ablauf</sub> 🧠<sup>💭</sup>  
-
-
- 
- ### *Ablauf:*               
-            
- ⒈)  `Punkt einfügen`   
- ⒉) ` ⋯ `               
- ⒊) ` ⋯ `               
-  
- #### 
-   - ***zum Beispiel:***
-     >  <sub>*Die Dezimalzahl*</sub> **6**  <sub>**entspricht der Binärzahl**</sub> **110**  
-     > ↳ <sub>*das sind*</sub> **3 Binärstellen**  <sub>weil  **6** ***insgesamt 3 Mal durch 2 teilbar*** *ist.*  
-
-                                               
-      ```c#                                
-         -   6 : 2 = 3,    //  Rest = 0   
-         -   3 : 2 = 1,    //  Rest = 1    
-         -   1 : 2 = 0,    //  Rest = 1     
-      ```                                 
- 
- > <sub> [..*weiterführende Quelle*..] </sub> [ **⁵** ]()
- ---
-
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
 
-
+<!--
 # *SPOILER* <sub><sup> → [*Lösung*](https://github.com/IxI-Enki/Uebung-<<AUSFÜHRBAREDAT>>.cs) <sup></sub>:
 
 
@@ -112,3 +77,5 @@ namespace <<Bezeichnung>>   //
 > <sub> [..*weiterführende Quelle*..] </sub> [ **⁷** ]()
 
 </dertails>
+
+-->
