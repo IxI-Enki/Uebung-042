@@ -41,7 +41,7 @@
 <!-- ---------------------------------------------|-------------------------------------------- -->
 
 
-# *SPOILER* <sub><sup> → [*Lösung*](https://github.com/IxI-Enki/Uebung-<<AUSFÜHRBAREDAT>>.cs) <sup></sub>:
+# *SPOILER* <sub><sup> → [*Lösung*](https://github.com/IxI-Enki/Uebung-042/blob/main/ASCII%20Tabelle/ASCII%20Tabelle/ASCIItable.cs) <sup></sub>:
 
 
 
