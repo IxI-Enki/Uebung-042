@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ASCII Tabelle/ASCII Tabelle/bin/Debug/net8.0
+/ASCII Tabelle/ASCII Tabelle/obj
+/ASCII Tabelle/ASCII Tabelle/ASCII Tabelle.csproj
+/ASCII Tabelle/ASCII Tabelle.sln
+/ASCII Tabelle/.vs/ASCII Tabelle
