@@ -10,10 +10,10 @@
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ## 📊 Lernziele:  
-   ↳ Stringbearbeitung 
-   ↳ ASCII Code  
-    
-   >   <sub> [..*Quelle ASCII Code*..] </sub> [ **¹** ](https://tools.piex.at/ascii-tabelle/)
+- ↳ Stringbearbeitung   
+- ↳ ASCII Code  
+ 
+  > <sub> [..*Quelle ASCII Code*..](https://tools.piex.at/ascii-tabelle/)
 
 <sup><sub> </sub></sup>
 ---
