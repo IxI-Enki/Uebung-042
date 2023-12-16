@@ -20,7 +20,7 @@
 
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ## 🧮 **Aufgabenstellung:**  
-  -  *Schreiben Sie ein Programm, welches die druckbaren Zeichen des ASCII Codes, samt der entsprechende INT und HEX Zahl ausgibt.  
+  -  *Schreiben Sie ein Programm, welches die druckbaren Zeichen des ASCII Codes, samt der entsprechende INT und HEX Zahl ausgibt.*  
   -  *Die Druckbaren Zeichen beginnen bei dezimal 32 und enden bei dezimal 127*   
  
 ---
@@ -28,13 +28,13 @@
 <!-- ---------------------------------------------|-------------------------------------------- -->
 ## 🔎 **Ausgabe** <sub>*Bsp.*</sub> 
 
-- Exemplarisch die ersten 15 Zeilen der Ausgabe …
+ > Exemplarisch die ersten 15 Zeilen der Ausgabe …
 
    |           *Benutzerschnittstelle:*   |  
    | :-----------------------------------------------------------------------------------------------------------------: |
    |  ![**Ausgabebeispiel 📎**](https://github.com/IxI-Enki/Uebung-042/assets/138018029/55785dfd-c5ae-4399-9fb3-c7fd8cef4dec) |
 
-- … muss fortgesetzt werden bis zum Code 127
+  > … muss fortgesetzt werden bis zum Code 127
 
 ---
 
